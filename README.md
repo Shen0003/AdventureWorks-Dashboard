@@ -1,7 +1,7 @@
 # AdventureWorks-Report/Dashboard
-• Built a comprehensive Power BI dashboard for a fictional manufacturing company to analyze KPIs, product trends, customer value, and regional performance.
-• Transformed raw Excel files using Power Query, designed a relational data model, and created advanced DAX measures.
-• Implemented filters, slicers, bookmarks, drill-down, and role-level access to deliver an interactive, user-friendly BI solution.
+<ul>Built a comprehensive Power BI dashboard for a fictional manufacturing company to analyze KPIs, product trends, customer value, and regional performance.</ul>
+<ul>Transformed raw Excel files using Power Query, designed a relational data model, and created advanced DAX measures.</ul>
+<ul>Implemented filters, slicers, bookmarks, drill-down, and role-level access to deliver an interactive, user-friendly BI solution.</ul>
 
 ![image](https://github.com/user-attachments/assets/1ed17b99-4cb4-4924-ab3c-6ba1e863d3f3)
 
